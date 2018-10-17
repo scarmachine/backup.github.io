@@ -271,6 +271,11 @@ h4 {
 	}
 
 /*hero*/
+img {
+    height: auto;
+    max-width: 100%;
+}
+
 .hero {
 	font-family: Brandon_blk,HelveticaNeue-Light,"Helvetica Neue Light",sans-serif;
 	font-weight: 900;
