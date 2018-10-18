@@ -156,6 +156,7 @@ html, body {
 }
 /*navbar*/
 .navbar.main-navbar {
+	background-color: #000;
 	position: fixed;
 	width: 100%;
 	padding-top: 25px;
